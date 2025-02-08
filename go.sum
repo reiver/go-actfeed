@@ -1,7 +1,9 @@
-github.com/reiver/go-act v0.0.0-20250208014353-bc9fd50e9778 h1:3BhGV12o/K2E7w3WQTXTw7D69UUxgx1xeHYo5m2nKa0=
-github.com/reiver/go-act v0.0.0-20250208014353-bc9fd50e9778/go.mod h1:2Ql3P0jHtCEyHXBBvccRDrcKcQZgCx4kGju3H2ke/SA=
+github.com/reiver/go-act v0.0.0-20250208022035-3b23787afdf6 h1:uETh+Eu7WA094Z3WEqw23r83ufGCgKMoOBb2YxzMy1Q=
+github.com/reiver/go-act v0.0.0-20250208022035-3b23787afdf6/go.mod h1:2Ql3P0jHtCEyHXBBvccRDrcKcQZgCx4kGju3H2ke/SA=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f h1:D1QSxKHm8U73XhjsW3SFLkT0zT5pKJi+1KGboMhY1Rk=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f/go.mod h1:F0HbBf+Ak2ZlE8YkDW4Y+KxaUmT0KaaIJK6CXY3cJxE=
+github.com/reiver/go-etag v0.0.0-20241130123934-1a98d29fda6e h1:2FJeuK9Uc6BGLnXz4QOyfPefILfXGoPxiyCpgwz0WMU=
+github.com/reiver/go-etag v0.0.0-20241130123934-1a98d29fda6e/go.mod h1:TGoPFV3b4+PE2rF27XiFZLu6dg4faIEx7AUITCKyj4c=
 github.com/reiver/go-json v0.0.0-20241213105958-0fd2a5bb4dd8 h1:GVHQl0cdITUj8EHeGi/v4n7H7DCRDLIiLcUXjFKes/U=
 github.com/reiver/go-json v0.0.0-20241213105958-0fd2a5bb4dd8/go.mod h1:ns4kpzbK+OyMUZYT8UmBxrsYWNmvB/irZGmyIh99cxY=
 github.com/reiver/go-jsonld v0.0.0-20241216235649-e851bd7e3ab6 h1:TSKZsxbubNUfECSRpiePBIyJwe4ak0XCC1HNHC5Wsns=
