@@ -24,7 +24,7 @@ type Feed struct {
 	Name        opt.Optional[string] `json:"name,omitempty"`           // https://www.w3.org/ns/activitystreams#name
 	Summary     opt.Optional[string] `json:"summary,omitempty"`        // https://www.w3.org/ns/activitystreams#summary
 	Tag         []act.HashTag        `json:"tag,omitempty"`            // https://www.w3.org/ns/activitystreams#tag
-	Type          json.Const[string] `json:"type" json.value:"Person"`
+	Type          json.Const[string] `json:"type" json.value:"Feed"`
 	URL         opt.Optional[string] `json:"url,omitempty"`            // https://www.w3.org/ns/activitystreams#url
 }
 
